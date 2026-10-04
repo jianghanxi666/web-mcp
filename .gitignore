@@ -1,0 +1,4 @@
+.venv/
+.mioria-browser-profile/
+__pycache__/
+browser_test.py
